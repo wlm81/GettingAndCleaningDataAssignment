@@ -7,7 +7,7 @@ The file contains data from the accelerometers of the Samsung Galaxy S smartphon
 
 The script will import the x, y, and subject data from test and training data sets and combine them to a single data set. All variables are renamed to a more descriptive header with mean and standard deviation data used to provide a new data set.
 
-A tidy data set is then saved to the working directory with the average (mean) values of each activity and each subject.
+A tidy data set is created by aggregating the data and then saved to the working directory with the average (mean) values of each activity and each subject.
 
 ## Changes to the script
 Please edit the setwd to change the working directory to reflect the correct path so the run_analysis.R script with UCI HAR Dataset as a subdirectory with all the data from the downloaded zip file.
