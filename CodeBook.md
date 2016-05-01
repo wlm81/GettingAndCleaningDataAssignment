@@ -1,27 +1,27 @@
 # Codebook for the  run_analysis.R script
 
 ##Measurement variables in TidyData.txt
--Subject_id
--Activity_id
--TimeBodyAccelerationMagnitudeMean()
--TimeBodyAccelerationMagnitudeStandardDeviation()
--TimeGravityAccelerationMagnitudeMean()
--TimeGravityAccelerationMagnitudeStandardDeviation()
--TimeBodyAccelerationJerkMagnitudeMean()
--TimeBodyAccelerationJerkMagnitudeStandardDeviation()
--TimeBodyGyroMagnitudeMean()
--TimeBodyGyroMagnitudeStandardDeviation()
--TimeBodyGyroJerkMagnitudeMean()
--TimeBodyGyroJerkMagnitudeStandardDeviation()
--FrequencyBodyAccelerationMagnitudeMean()
--FrequencyBodyAccelerationMagnitudeStandardDeviation()
--FrequencyBodyAccelerationJerkMagnitudeMean()
--FrequencyBodyAccelerationJerkMagnitudeStandardDeviation()
--FrequencyBodyGyroMagnitudeMean()
--FrequencyBodyGyroMagnitudeStandardDeviation()
--FrequencyBodyGyroJerkMagnitudeMean()
--FrequencyBodyGyroJerkMagnitudeStandardDeviation()
--Activity_type
+ - Subject_id 
+ - Activity_id 
+ - TimeBodyAccelerationMagnitudeMean()
+ - TimeBodyAccelerationMagnitudeStandardDeviation()
+ - TimeGravityAccelerationMagnitudeMean()
+ - TimeGravityAccelerationMagnitudeStandardDeviation()
+ - TimeBodyAccelerationJerkMagnitudeMean()
+ - TimeBodyAccelerationJerkMagnitudeStandardDeviation()
+ - TimeBodyGyroMagnitudeMean()
+ - TimeBodyGyroMagnitudeStandardDeviation()
+ - TimeBodyGyroJerkMagnitudeMean()
+ - TimeBodyGyroJerkMagnitudeStandardDeviation()
+ - FrequencyBodyAccelerationMagnitudeMean()
+ - FrequencyBodyAccelerationMagnitudeStandardDeviation()
+ - FrequencyBodyAccelerationJerkMagnitudeMean()
+ - FrequencyBodyAccelerationJerkMagnitudeStandardDeviation()
+ - FrequencyBodyGyroMagnitudeMean()
+ - FrequencyBodyGyroMagnitudeStandardDeviation()
+ - FrequencyBodyGyroJerkMagnitudeMean()
+ - FrequencyBodyGyroJerkMagnitudeStandardDeviation()
+ - Activity_type
 
 ##Activity ID and activity types
 ID Type
