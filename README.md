@@ -1,5 +1,8 @@
 # Getting And Cleaning Data Assignment
 
+## Assumption
+It is assumed that the data has been download fromt he link below and extracted to the working directory. It is also assumed that data.table library for R has been installed as well.
+
 ## Script
 The run_analysis.R script takes the extracted data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip file.
 
@@ -26,3 +29,6 @@ README.md - This file.
  - x_train.txt - Measurements in training
  - y_test.txt - Activity in test
  - y_train.txt - Activity in training 
+
+## Final data file
+TidyData.txt - Dataset from the output of run_analysis.R
