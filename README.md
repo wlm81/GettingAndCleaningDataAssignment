@@ -17,7 +17,7 @@ CodeBook.md - Code book with list of variables used
 run_analysis.R  - R script to run data import and analysis
 README.md - This file.
 
-## Data files from ZIP file.
+## Data files extracted from ZIP file.
  - activity_labels.txt - List of 1 to 6 activities
  - features.txt - List of features measured
  - subject_test.txt - Subject in the test experiment
