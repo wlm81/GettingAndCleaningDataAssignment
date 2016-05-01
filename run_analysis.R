@@ -3,6 +3,9 @@
 # It is assumed that the data file has been downloaded and extracted to the location of the working directory
 # The extracted data directory being named UCI HAR Dataset
 
+# Load library
+library(data.table)
+
 # Clear workspace
 rm(list=ls())
 
