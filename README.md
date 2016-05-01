@@ -11,3 +11,18 @@ A tidy data set is then saved to the working directory with the average (mean) v
 
 ## Changes to the script
 Please edit the setwd to change the working directory to reflect the correct path so the run_analysis.R script with UCI HAR Dataset as a subdirectory with all the data from the downloaded zip file.
+
+## Files
+CodeBook.md - Code book with list of variables used
+run_analysis.R  - R script to run data import and analysis
+README.md - This file.
+
+## Data files from ZIP file.
+ - activity_labels.txt - List of 1 to 6 activities
+ - features.txt - List of features measured
+ - subject_test.txt - Subject in the test experiment
+ - subject_train.txt - Subject in the training experiment
+ - x_test.txt - Measurements in test
+ - x_train.txt - Measurements in training
+ - y_test.txt - Activity in test
+ - y_train.txt - Activity in training 
